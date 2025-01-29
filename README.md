@@ -7,8 +7,7 @@ TargatedVulnAi is a **Large Language Model (LLM) framework** designed to analyze
 
 ## **Features**  
 ✅ **Automated Web Scraping**: Collects real-time CVE data from trusted sources.  
-✅ **Generative AI for Summarization**: Converts technical descriptions into concise insights.  
-✅ **Exploit Code Generation**: Fine-tuned **CodeT5** to generate proof-of-concept exploits.  
+✅ **Generative AI for Summarization**: Converts technical descriptions into concise insights.
 ✅ **Q/A & Report Generation**: Uses **Flan-T5 & T5** for structured cybersecurity analysis.  
 ✅ **Low-Resource Fine-Tuning**: Implements **QLoRA (8-bit quantization + LoRA)** for efficient training.  
 
